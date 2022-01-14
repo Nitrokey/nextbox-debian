@@ -1,2 +1,4 @@
 # nextbox-debian
-NextBox Debian Package Building Repository
+
+
+Moved to https://github.com/Nitrokey/nextbox and archived...
